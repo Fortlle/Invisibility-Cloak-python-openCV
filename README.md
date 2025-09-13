@@ -8,7 +8,6 @@ Inspired by the cloak from Harry Potter
 - Real-time video capture
 - Detects red-colored cloak
 - Replaces cloak area with background
-- Save output as video
 
 ## Installation
 Clone the repository:
